@@ -1,4 +1,4 @@
-![FRED API]()
+![FRED API](https://github.com/Sathyam-Kakodkar/Fetch-API/blob/main/Images/API%20Image.png)
 
 
 # Fetching Data From An API
